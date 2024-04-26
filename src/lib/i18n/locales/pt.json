@@ -438,7 +438,12 @@
   "official_label_settings_description": "Aplica-se a rótulos fornecidos pelo Serviço de Moderação do Bluesky. A tradução do nome do rótulo é do TOKIMEKI e podem haver pequenas diferenças.",
   "labels": "Rótulos",
   "import_labeler": "Configurações do rotulador oficial",
+  "self_labeling_note": "Aviso de conteúdo só é válido para publicações com mídia.",
+  "giphy_picker_placeholder": "Buscar GIFs no GIPHY",
   "process_to_post": "Postando...",
+  "post_add_thread": "Adicionar thread",
+  "reply_disable_when_threaded": "Não é possível responder enquanto postando uma thread.",
+  "read_this_thread": "Leia essa thread",
   "search_sort_latest": "Mais recentes",
   "search_sort_top": "Popular"
 }
